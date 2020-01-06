@@ -1,3 +1,4 @@
 git을 시작합니다
 pull : 당기기
 push : 밀기
+github
